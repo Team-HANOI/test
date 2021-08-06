@@ -2,7 +2,7 @@
 name: Bug Report
 about: 버그 관련 이슈
 title: ''
-labels: 버그
+labels: '버그'
 assignees: ''
 
 ---
